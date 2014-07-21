@@ -991,6 +991,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020059;
     }
     public static final class id {
+        public static final int GetServerData=0x7f050049;
         public static final int TextView01=0x7f050045;
         public static final int TextView02=0x7f050046;
         public static final int TextView03=0x7f050047;
@@ -1005,7 +1006,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f050048;
+        public static final int action_settings=0x7f05004c;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
@@ -1031,6 +1032,7 @@ containing a value of this type.
         public static final int ifRoom=0x7f05000a;
         public static final int image=0x7f050027;
         public static final int imageView1=0x7f050043;
+        public static final int jsonParsed=0x7f05004b;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
         public static final int list_slidermenu=0x7f05003e;
@@ -1038,6 +1040,7 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
+        public static final int output=0x7f05004a;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
@@ -1051,6 +1054,7 @@ containing a value of this type.
         public static final int search_plate=0x7f050036;
         public static final int search_src_text=0x7f050037;
         public static final int search_voice_btn=0x7f05003b;
+        public static final int serverText=0x7f050048;
         public static final int shortcut=0x7f05002e;
         public static final int showCustom=0x7f050007;
         public static final int showHome=0x7f050004;
@@ -1120,7 +1124,8 @@ containing a value of this type.
         public static final int fragment_profile=0x7f03001a;
         public static final int fragment_scoreboard=0x7f03001b;
         public static final int fragment_tasks=0x7f03001c;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
+        public static final int rest_ful_webservice=0x7f03001d;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
     }
     public static final class menu {
         public static final int main=0x7f0d0000;

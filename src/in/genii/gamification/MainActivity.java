@@ -8,7 +8,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
-import android.content.Context;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
 import android.graphics.Color;
@@ -189,8 +189,9 @@ public class MainActivity extends Activity {
             fragment = new ProfileFragment();
             break;
         case 3:
-            fragment = new SignInFragment();
-            break;
+            //fragment = new SignInFragment();
+            startActivity(new Intent(this,RestFulWebservice.class));            
+        	break;
  
         default:
             break;
